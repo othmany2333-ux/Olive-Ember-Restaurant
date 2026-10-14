@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Illustration of burger">
+    <defs>
+      <radialGradient id="background"><stop stop-color="#fff9eb"/><stop offset="1" stop-color="#efe0cb"/></radialGradient>
+      <radialGradient id="plate"><stop stop-color="#fffef6"/><stop offset=".72" stop-color="#fffdf2"/><stop offset="1" stop-color="#dfd5c5"/></radialGradient>
+      <filter id="shadow"><feGaussianBlur stdDeviation="12"/></filter>
+    </defs>
+    <rect width="600" height="450" fill="url(#background)"/>
+    <g opacity=".2" stroke="#907b64" fill="none"><path d="M-20 100Q200 40 400 125T650 80"/><path d="M-20 360Q180 310 400 385T650 340"/></g>
+    <ellipse cx="303" cy="292" rx="204" ry="130" fill="#6e5846" opacity=".17" filter="url(#shadow)"/>
+    <ellipse cx="300" cy="226" rx="203" ry="167" fill="#f7f2e9"/>
+    <ellipse cx="300" cy="223" rx="182" ry="150" fill="url(#plate)" stroke="#e5d9c7" stroke-width="3"/>
+    <ellipse cx="300" cy="223" rx="164" ry="135" fill="#f7f1e6" stroke="#eae0d0" stroke-width="2"/>
+    <ellipse cx="300" cy="288" rx="146" ry="40" fill="#c88e55" transform="rotate(0 300 288)"/><ellipse cx="300" cy="261" rx="151" ry="36" fill="#a55d34" transform="rotate(0 300 261)"/><ellipse cx="300" cy="242" rx="146" ry="22" fill="#f1bf62" transform="rotate(0 300 242)"/><path d="M152 222q24-23 44 3t40-1t41-2t40 0t41 0t40-1t51-3l-11 24H166Z" fill="#559048"/><path d="M166 231Q181 240 194 233T233 235T274 235T312 232T351 235T393 231T440 238" stroke="#a7bb6a" stroke-width="12" fill="none"/><path d="M158 213q3-104 142-110 147-1 142 110Z" fill="#dca35c" stroke="#c58b47" stroke-width="5"/><ellipse cx="230" cy="152" rx="6" ry="3" fill="#fff2cc" transform="rotate(30 230 152)"/><ellipse cx="281" cy="134" rx="6" ry="3" fill="#fff2cc" transform="rotate(30 281 134)"/><ellipse cx="342" cy="154" rx="6" ry="3" fill="#fff2cc" transform="rotate(30 342 154)"/><ellipse cx="393" cy="185" rx="6" ry="3" fill="#fff2cc" transform="rotate(30 393 185)"/><ellipse cx="191" cy="192" rx="6" ry="3" fill="#fff2cc" transform="rotate(30 191 192)"/><ellipse cx="319" cy="192" rx="6" ry="3" fill="#fff2cc" transform="rotate(30 319 192)"/><ellipse cx="260" cy="189" rx="6" ry="3" fill="#fff2cc" transform="rotate(30 260 189)"/>
+    <path d="M489 55q28 14 49 46" stroke="#80976b" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <path d="M495 64q-18-18-21-32 25 2 28 25m14 13q19-21 38-16-8 26-36 26" fill="#8fac76"/>
+    </svg>
